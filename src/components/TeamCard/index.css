@@ -2,10 +2,10 @@
 
 .card {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 80%;
+  width: 90%;
   border: 2px solid #ffffff;
   background: #ffffff33;
   border-radius: 2px;
