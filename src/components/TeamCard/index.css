@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  border: 2px solid #ffffff;
+  background: #ffffff33;
+  border-radius: 2px;
+  margin: 5px;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.team-logo {
+  width: 150px;
+  height: 150px;
+}

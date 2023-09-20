@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.banner-con {
+  background-image: linear-gradient(#d91c1f, #a4261d, #1e293b);
+  height: 400vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fir-team-banner {
+  width: 80%;
+}
+
+.sec-team-banner {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.banner-image {
+  width: 100%;
+}
+
+.match-card-head-con {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.match-head-con {
+  width: 80%;
+}

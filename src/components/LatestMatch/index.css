@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.head-con {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  background-color: #1e293b;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fir-lat-mat-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  color: #ffffff;
+  width: 30%;
+}
+
+.sec-lat-con {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.latest-match-image {
+  width: 200px;
+  height: 200px;
+}
+
+.third-lat-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+  color: #ffffff;
+  width: 30%;
+}
+
+.inner-third-lat-con {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
